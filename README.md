@@ -1,6 +1,6 @@
 # money_manager
 
-A new Flutter project.
+Proximamente...
 
 ## Getting Started
 
